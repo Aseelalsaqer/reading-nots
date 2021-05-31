@@ -3,7 +3,6 @@
 I've Finished My Studying in Civil Engineering in 2019 from Al-AlBayt Univesrty , Now I'm here to expere and get new skills in programming.\
 You can check my Repositories [here](https://github.com/Aseelalsaqer?tab=repositories) .
 
-
 ![Growth Mindset](Mind.png)
 # \*Growth Mindset\*
 ## What Is The Growth Mindset?
