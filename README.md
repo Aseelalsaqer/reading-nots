@@ -1,5 +1,5 @@
+![Growth Mindset](Mind.png)
 # \*Growth Mindset\*
-![Growth Mindset]()
 ## What Is The Growth Mindset?
 **A Growth Mindset** believes that one's fundamental abilties can be developed through perseverance and effort :muscle:.\
 This Table Shows some differnce between Growth and Fixed Mindset:
