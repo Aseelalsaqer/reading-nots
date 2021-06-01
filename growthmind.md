@@ -8,8 +8,8 @@ You can check my Repositories [here](https://github.com/Aseelalsaqer?tab=reposit
 ## What Is The Growth Mindset?
 **A Growth Mindset** believes that one's fundamental abilties can be developed through perseverance and effort :muscle:.\
 This Table Shows some differnce between Growth and Fixed Mindset:
-**Growth Mindset** | **Fixed Mindset**
------------------- | -----------------
+|**Growth Mindset** | **Fixed Mindset**|
+|------------------ | -----------------|
 Embraces challenges| Avoid challenges
 Persists obstacels | Loses focus obstacle
 
