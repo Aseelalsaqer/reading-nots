@@ -12,4 +12,15 @@ Also it refers to any interactions the user has with product, the goal of it is 
 The differece between UI and UX that UI  is how the a product surface look and function but UX is about solving problems. 
 **HTML**
 * *HTML* is a markup language that defines the structure of your content.
+
 **Anatomy of an HTML element**
+![HTML](HTML.png)
+1. The opening tag: This consists of the name of the element.
+2. The closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name. This states where the element ends.
+3. The content: This is the content of the element.
+4. The element: The opening tag, the closing tag, and the content together comprise the element.
+
+* Some of orders that we can do ; Nesting elements,Empty elements .
+
+
+
