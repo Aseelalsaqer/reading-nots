@@ -1,6 +1,6 @@
 **Wireframe** 
-* is a sketch or a plan how I want the screen appear using simple shapes to represnt the element on screen.
-**Two Kinds of Wirefram:**
+* is a sketch or a plan how I want the screen appear using simple shapes to represent the element on screen.
+**Two Kinds of Wireframe:**
 1. Hand draw sketch 
 2. Digital Wireframe using (wirefram.cc) or xd...
 
