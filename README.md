@@ -10,6 +10,7 @@ You can check my Repositories [here](https://github.com/Aseelalsaqer?tab=reposit
 1|[growthmind](https://aseelalsaqer.github.io/reading-nots/growthmind)
 2|[reading01](https://aseelalsaqer.github.io/reading-nots/reading01)
 3|[reading02](https://aseelalsaqer.github.io/reading-nots/reading02)
+4|[reading03](https://aseelalsaqer.github.io/reading-nots/reading03)
 
 
 
