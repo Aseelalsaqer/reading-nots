@@ -10,3 +10,6 @@
 * To make using the app or product easier. 
 Also it refers to any interactions the user has with product, the goal of it is to create easy , efficient , relevant products. 
 The differece between UI and UX that UI  is how the a product surface look and function but UX is about solving problems. 
+**HTML**
+* *HTML* is a markup language that defines the structure of your content.
+**Anatomy of an HTML element**
