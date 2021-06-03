@@ -10,6 +10,7 @@
 3. Inline CSS:
     * To use inline styles, add the style attribute to the relevant element. The style attribute can contain any CSS property.
 
+
  * Adding color:
    
  ![pic4](pic4.PNG)
