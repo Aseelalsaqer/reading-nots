@@ -15,4 +15,4 @@ Variables could be (numbers, letters,boolean).
 
 
 1. Create a new file called **main.js** , in the same directory as your **index.html** file.
-2. Apply the external JavaScript file to your HTML by inserting a **<script>** element into your HTML referencing **main.js** . Put it just before the closing **</body>** tag.
+2. Apply the external JavaScript file to your HTML by inserting a **<script>** element into your HTML referencing **main.js** . Put it just before the closing **</body> tag.
