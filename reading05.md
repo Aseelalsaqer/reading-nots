@@ -1,2 +1,4 @@
 # Operators 
+![operations](pic.PNG)
+
 
