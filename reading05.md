@@ -8,7 +8,8 @@
 ![loop](pic2.PNG)
 
 * A **while** statement executes its statements as long as a specified condition evaluates to true.
-* 
+![loop1](pic3.PNG)
+
 
 
 
