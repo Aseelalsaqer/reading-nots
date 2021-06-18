@@ -18,11 +18,10 @@ You can check my Repositories [here](https://github.com/Aseelalsaqer?tab=reposit
 7|[reading06](https://aseelalsaqer.github.io/reading-nots/reading06)
 8|[reading07](https://aseelalsaqer.github.io/reading-nots/reading07)
 
-<<<<<<< HEAD
+
 * # 201 Reading Nots:
 =======
 
->>>>>>> 49b808eac160ace6edda4bbc37dfc1a3918824cf
 
 
 
