@@ -12,8 +12,11 @@ closing tags.
 
 * Tags act like containers. They tell you something about the information that lies between their opening and closing tags.
 
-Attributes provide additional information
-about the contents of an element. They appear
-on the opening tag of the element and are
-made up of two parts: a name and a value,
+* Attributes provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts: a name and a value,
 separated by an equals sign. 
+
+* DOCTYPE declaration to tell a browser which version of HTML the page is using.
+ 
+ 
+ 
+ 
