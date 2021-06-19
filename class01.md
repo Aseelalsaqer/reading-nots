@@ -23,10 +23,10 @@ separated by an equals sign.
 
 * Escape characters are used to include special characters in your pages such as <, >, and ©.
 
-# HTML5:
+## HTML5:
 1. The new HTML5 elements i XX ndicate the purpose of different parts of a web page and help to describe its structure.
 2. The new elements provide clearer code (compared with using multiple <div> elements).
-3. 
+ 
  
  
  
