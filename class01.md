@@ -26,6 +26,12 @@ separated by an equals sign.
 ## HTML5:
 1. The new HTML5 elements i XX ndicate the purpose of different parts of a web page and help to describe its structure.
 2. The new elements provide clearer code (compared with using multiple <div> elements).
+
+# JAVASCRIPT:  
+* A script is a series of instructions that a computer can follow to achieve a goal.
+* To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help).
+* When you want to use JavaScript with a web page, you use the HTML <script> element to tell the browser it is coming across a script. Its s re attribute tells people where the JavaScript file is stored.
+  
  
  
  
