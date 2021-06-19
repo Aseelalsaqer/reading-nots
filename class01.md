@@ -16,6 +16,17 @@ closing tags.
 separated by an equals sign. 
 
 * DOCTYPE declaration to tell a browser which version of HTML the page is using.
+
+ ![comment](comment.PNG)
+ 
+* comments are not visible to users in the main browser window, they can be viewed by anyone who looks at the source code behind the page.
+
+* Escape characters are used to include special characters in your pages such as <, >, and ©.
+
+# HTML5:
+1. The new HTML5 elements i XX ndicate the purpose of different parts of a web page and help to describe its structure.
+2. The new elements provide clearer code (compared with using multiple <div> elements).
+3. 
  
  
  
