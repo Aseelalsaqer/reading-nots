@@ -24,7 +24,9 @@ You can check my Repositories [here](https://github.com/Aseelalsaqer?tab=reposit
 |
 |No.|Heading|
 |---|-------|
-1|[Html&JS](https://aseelalsaqer.github.io/reading-nots/class01)
+1|[Class01](https://aseelalsaqer.github.io/reading-nots/class01)
+2|[Class02](https://aseelalsaqer.github.io/reading-nots/class02)
+
 
 
 
