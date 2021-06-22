@@ -14,4 +14,15 @@
  * Border
  * Margin
  * Padding
- 
+ # Arrays:
+ * An array is a special type of variable. It doesn't just store one value; it stores a list of values.
+ * Values in an array are accessed as if they are in a numbered list. It is important to know that the numbering of this list starts at zero (not one).
+# IF ... ELSE STATEMENTS:
+if ... e1se statement al lows you to provide two sets of code:
+1. one set if the condition evaluates to true
+2. another set if the condition is false
+# SWITCH STATEMENTS:
+* You have a default option that is run if none of the cases match.
+# Loops:
+There are three types of loop: for, while, and
+do ... while. Each repeats a set of statements.
