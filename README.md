@@ -32,6 +32,7 @@ You can check my Repositories [here](https://github.com/Aseelalsaqer?tab=reposit
 6|[Class06](https://aseelalsaqer.github.io/reading-nots/class06)
 7|[Class07](https://aseelalsaqer.github.io/reading-nots/class07)
 8|[Class08](https://aseelalsaqer.github.io/reading-nots/class08)
+9|[Class09](https://aseelalsaqer.github.io/reading-nots/class09)
 
 
 
