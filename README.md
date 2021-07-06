@@ -37,6 +37,8 @@ You can check my Repositories [here](https://github.com/Aseelalsaqer?tab=reposit
 11|[Class11](https://aseelalsaqer.github.io/reading-nots/class11)
 12|[Class12](https://aseelalsaqer.github.io/reading-nots/class12)
 13|[Class13](https://aseelalsaqer.github.io/reading-nots/class13)
+14a|[Class14a](https://aseelalsaqer.github.io/reading-nots/class14a)
+14b|[Class14b](https://aseelalsaqer.github.io/reading-nots/class14b)
 
 
 
