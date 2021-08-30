@@ -47,6 +47,7 @@ You can check my Repositories [here](https://github.com/Aseelalsaqer?tab=reposit
 |No.|Heading|
 |---|-------|
 1|[read01](https://aseelalsaqer.github.io/reading-nots/read01)
+2|[read02](https://aseelalsaqer.github.io/reading-nots/read02)
 
 
 
