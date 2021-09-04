@@ -1,10 +1,13 @@
-de* **Name:** Aseel Fawwaz Al-Saqer\
-* **Birth:** 4\1\1997\
-* **E-Mail:** Aseel_Fawwaz@yahoo.com\
-* I've Finished My Studying in Civil Engineering in 2019 from Al-AlBayt Univesrty , Now I'm here to  expire and get new skills in programming.\
-You can check my Repositories [here](https://github.com/Aseelalsaqer?tab=repositories) .
-# Table of Contents 
-* # 102 Reading Notes: 
+de\* **Name:** Aseel Fawwaz Al-Saqer\
+
+- **Birth:** 4\1\1997\
+- **E-Mail:** Aseel_Fawwaz@yahoo.com\
+- I've Finished My Studying in Civil Engineering in 2019 from Al-AlBayt Univesrty , Now I'm here to expire and get new skills in programming.\
+  You can check my Repositories [here](https://github.com/Aseelalsaqer?tab=repositories) .
+
+# Table of Contents
+
+- # 102 Reading Notes:
 
 |
 |No.|Heading|
@@ -18,8 +21,7 @@ You can check my Repositories [here](https://github.com/Aseelalsaqer?tab=reposit
 7|[reading06](https://aseelalsaqer.github.io/reading-nots/reading06)
 8|[reading07](https://aseelalsaqer.github.io/reading-nots/reading07)
 
-
-* # 201 Reading Nots:
+- # 201 Reading Nots:
 
 |
 |No.|Heading|
@@ -40,21 +42,11 @@ You can check my Repositories [here](https://github.com/Aseelalsaqer?tab=reposit
 14a|[Class14a](https://aseelalsaqer.github.io/reading-nots/class14a)
 14b|[Class14b](https://aseelalsaqer.github.io/reading-nots/class14b)
 
-
-* # 301 Reading Nots:
+- # 301 Reading Nots:
 
 |
 |No.|Heading|
 |---|-------|
 1|[read01](https://aseelalsaqer.github.io/reading-nots/read01)
 2|[read02](https://aseelalsaqer.github.io/reading-nots/read02)
-
-
-
-
-
-
-
-
-
-
+6|[read06](https://aseelalsaqer.github.io/reading-nots/read06)
