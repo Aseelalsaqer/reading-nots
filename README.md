@@ -51,3 +51,4 @@ de\* **Name:** Aseel Fawwaz Al-Saqer\
 2|[read02](https://aseelalsaqer.github.io/reading-nots/read02)
 5|[read05](https://aseelalsaqer.github.io/reading-nots/read05)
 6|[read06](https://aseelalsaqer.github.io/reading-nots/read06)
+10|[read010](https://aseelalsaqer.github.io/reading-nots/read010)
