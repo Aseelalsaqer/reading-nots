@@ -82,5 +82,6 @@ de\* **Name:** Aseel Fawwaz Al-Saqer\
   18|[read 40118](https://aseelalsaqer.github.io/reading-nots/read40118)
   19|[read 40119](https://aseelalsaqer.github.io/reading-nots/read40119)
   26|[read 40126](https://aseelalsaqer.github.io/reading-nots/read40126)
+  27|[read 40127](https://aseelalsaqer.github.io/reading-nots/read40127)
   28|[read 40128](https://aseelalsaqer.github.io/reading-nots/read40128)
   29|[read 40129](https://aseelalsaqer.github.io/reading-nots/read40129)
