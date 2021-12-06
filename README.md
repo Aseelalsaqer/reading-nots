@@ -97,3 +97,4 @@ de\* **Name:** Aseel Fawwaz Al-Saqer\
   39|[read 40139](https://aseelalsaqer.github.io/reading-nots/read40139)
   41|[read 40141](https://aseelalsaqer.github.io/reading-nots/read40141)
   42|[read 40142](https://aseelalsaqer.github.io/reading-nots/read40142)
+  Ethics|[read 401Ethics](https://aseelalsaqer.github.io/reading-nots/read401Ethics)
